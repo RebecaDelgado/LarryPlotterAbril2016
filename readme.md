@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Rebeca Delgado**, Larry Plotter lover.
+**Rebeca Delgado**, Larry Plotter & Git lover.
